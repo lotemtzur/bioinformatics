@@ -93,12 +93,12 @@ BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 
 
 ### 4th Year
 
-Code | Course | Duration | Effort
-:-- | :--: | :--: | :--:
+Code | Course | Duration | Effort| Status | Status Details
+:-- | :--: | :--: | :--: | :--: | :--:
 BIO 4311 | [DNA: Biology's Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code) | 6 Weeks | 4-6 Hours/Week
 COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
 BIO 4312a | [Molecular Biology](https://ocw.mit.edu/courses/biology/7-28-molecular-biology-spring-2005/) | 16 Weeks | 4-8 Hours/Week
-BIO 4312d | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
+BIO 4312d | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week | Studying | https://stepik.org/lesson/3/step/2?unit=8232
 COMP 4312a | [Bioinformatics 2](https://www.coursera.org/learn/genome-sequencing) | 4 Week | 6 Hours/Week
 COMP 4312b | [Bioinformatics 3](https://www.coursera.org/learn/comparing-genomes) | 4 Week | 6 Hours/Week
 COMP 4312c | [Bioinformatics 4](https://www.coursera.org/learn/molecular-evolution) | 4 Week | 6 Hours/Week
